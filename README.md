@@ -5,7 +5,7 @@
 
 
 ## Содержание
-- [Technologies](#technologies)
+- [Технологии](#technologies)
 - [Начало работы](#начало-работы)
 
 
